@@ -1,6 +1,8 @@
 # CarND-Path-Planning-Project
 Self-Driving Car Engineer Nanodegree Program
 
+This project was a great way to learn about the implimentation of the path planning algorithem.  In this I used the sensor fusion block to make decisions with a cost function that were both safe and optimal.  
+
 Take a look at the link below for a video of the final result.
 https://vimeo.com/241116542
    
